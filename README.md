@@ -9,11 +9,7 @@ Basic To-Do list app built in Rails. Allows users to add To-Do list items and ma
 1. Clone the repository using `$ git clone`
 1. Run `$ rake db:create` and `$ rake db:migrate` from the directory you cloned into
 1. Run `$ rails server`
-1. Go to (http://localhost:3000/tasks) in a web browser to use the program.
-
-## Future
-
-* ~~Use Bootstrap on view~~
+1. Go to [http://localhost:3000/tasks] in a web browser to use the program.
 
 ## Meta
 
