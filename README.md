@@ -4,6 +4,10 @@
 
 Basic To-Do list app built in Rails. Allows users to add To-Do list items and mark each as done.
 
+## Future
+
+* Use Bootstrap on views
+
 ## Meta
 
 20 August 2014
