@@ -6,7 +6,7 @@ Basic To-Do list app built in Rails. Allows users to add To-Do list items and ma
 
 ## Future
 
-* Use Bootstrap on views
+* ~~Use Bootstrap on view~~
 
 ## Meta
 
